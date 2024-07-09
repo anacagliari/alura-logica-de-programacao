@@ -18,7 +18,7 @@ while (contadorDecremento >= 1) {
 let contagemRegressiva = prompt("Digite um número para a contagem regressiva: ");
 
 while (contagemRegressiva > 0) {
-    alert(`Contador regressiva: ${contagemRegressiva}`);7
+    alert(`Contador regressiva: ${contagemRegressiva}`);
     contagemRegressiva--;
 }
 alert("Feliz Ano Novo! :D");
